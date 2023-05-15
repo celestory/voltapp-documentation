@@ -1,6 +1,6 @@
 Ce nœud affiche un tableau avec des lignes et des colonnes.
 
-![preview](/documentation/nodes/table/preview.png)
+![preview](/images/table/preview.png)
 
 Pour le remplir vous devez utiliser une liste d'objets dans l'attribut **Liste** comme ceci :
 

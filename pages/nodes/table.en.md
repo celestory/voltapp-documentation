@@ -1,6 +1,6 @@
 This node displays a table with rows and columns.
 
-![preview](/documentation/nodes/table/preview.png)
+![preview](/images/table/preview.png)
 
 To fill it you need to have a list of objects, like so:
 

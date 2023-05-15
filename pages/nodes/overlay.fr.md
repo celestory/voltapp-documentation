@@ -5,4 +5,4 @@ Ce nœud permet d'afficher des nœuds les uns par dessus les autres. Il a 2 enfa
 
 Vous pouvez par exemple, ajouter une image dans **Background** et un texte dans **Foreground**.
 
-![preview](/documentation/nodes/overlay/preview.png)
+![preview](/images/overlay/preview.png)

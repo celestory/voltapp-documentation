@@ -1,6 +1,6 @@
 This node displays a fully customizable pie chart.
 
-![preview](/documentation/nodes/barChart/preview.png)
+![preview](/images/barChart/preview.png)
 
 The **Data** attribute is a list of "slices". Each slice has the following fields:
 

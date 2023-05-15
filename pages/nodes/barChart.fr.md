@@ -3,4 +3,4 @@ Ce nœud affiche un diagramme en bâtons totalement customisable. L'attribut **D
 -   **x** pour le label de chaque bâton
 -   **y** pour la valeur de chaque bâton
 
-![preview](/documentation/nodes/barChart/preview.png)
+![preview](/images/barChart/preview.png)

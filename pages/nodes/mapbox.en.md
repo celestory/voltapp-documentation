@@ -1,6 +1,6 @@
 This node connects to Mapbox API to display a map on screen.
 
-![preview](/documentation/nodes/mapbox/preview.png)
+![preview](/images/mapbox/preview.png)
 
 # How to setup
 

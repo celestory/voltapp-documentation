@@ -1,6 +1,6 @@
 Ce nœud affiche un diagramme en courbes totalement customisable.
 
-![preview](/documentation/nodes/lineChart/preview.png)
+![preview](/images/lineChart/preview.png)
 
 L'attribut **Données** est une liste de courbes. Chaque courbe a les champs suivants :
 

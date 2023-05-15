@@ -1,6 +1,6 @@
 This node connects to Mapbox API to draw elements on top of the map (to display the map itself, use Mapbox node).
 
-![preview](/documentation/nodes/mapboxDraw/preview.png)
+![preview](/images/mapboxDraw/preview.png)
 
 # How to setup
 

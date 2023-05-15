@@ -1,6 +1,6 @@
 The node allows you to dynamically display the same node multiple times based on the items in the list attribute.
 
-![preview](/documentation/nodes/list/preview.png)
+![preview](/images/list/preview.png)
 
 It contains two children nodes:
 

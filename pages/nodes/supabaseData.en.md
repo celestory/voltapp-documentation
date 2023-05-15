@@ -6,4 +6,4 @@ the node **SupabaseData** gives you access to the postgre database related featu
 
 To connect your node to your supabase database, go to **Settings > API** on [the supabase website](https://app.supabase.com/). And copy/paste the supabase **URL** and **API key** into the node:
 
-![preview](/documentation/nodes/supabaseAuth/config.png)
+![preview](/images/supabaseAuth/config.png)

@@ -1,6 +1,6 @@
 Ce nœud se connecte à l'API de Mapbox pour dessiner des éléments sur la map (pour afficher une map, utiliser le nœud Mapbox).
 
-![preview](/documentation/nodes/mapboxDraw/preview.png)
+![preview](/images/mapboxDraw/preview.png)
 
 # Configuration
 

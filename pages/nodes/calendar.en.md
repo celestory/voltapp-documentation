@@ -1,6 +1,6 @@
 This node allows you to display a calendar by month with a fully customisable appearance. It also shows a selected date using the **Value** attribute.
 
-![preview](/documentation/nodes/calendar/preview.png)
+![preview](/images/calendar/preview.png)
 
 Calendar contains some children nodes that reprensent specific parts of the calendar that you can customize as well:
 

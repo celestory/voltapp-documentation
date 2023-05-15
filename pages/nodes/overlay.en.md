@@ -5,4 +5,4 @@ This node allows you to display nodes on top of each other. It has 2 children:
 
 You can for example, add an image in **Background** and a text in **Foreground**.
 
-![preview](/documentation/nodes/overlay/preview.png)
+![preview](/images/overlay/preview.png)

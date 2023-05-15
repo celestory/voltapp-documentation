@@ -2,4 +2,4 @@ Ce nœud permet de créer une vue web dans votre app. Autrement dit, vous pouvez
 
 Par exemple, vous pouvez integrer une vidéo youtube comme ceci :
 
-![preview](/documentation/nodes/webview/preview.png)
+![preview](/images/webview/preview.png)

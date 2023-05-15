@@ -6,4 +6,4 @@ The node **SupabaseAuth** gives you access to all user/authentication related fe
 
 To connect your node to your supabase database, go to **Settings > API** on [the supabase website](https://app.supabase.com/). And copy/paste the supabase **URL** and **API key** into the node:
 
-![preview](/documentation/nodes/spinner/preview.gif)
+![preview](/images/spinner/preview.gif)

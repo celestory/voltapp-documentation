@@ -1,6 +1,6 @@
 This node displays a fully customizable line chart.
 
-![preview](/documentation/nodes/lineChart/preview.png)
+![preview](/images/lineChart/preview.png)
 
 The **Data** attribute is a list of curves. Each curve has the following fields:
 

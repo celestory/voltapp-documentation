@@ -1,6 +1,6 @@
 Ce nœud permet d'afficher un calendrier avec une apparence totalement personnalisable. Il affiche également une date sélectionnée avec l'attribut **Valeur**.
 
-![preview](/documentation/nodes/calendar/preview.png)
+![preview](/images/calendar/preview.png)
 
 Le calendrier contient des nœuds enfants qui représentent certaines parties du calendrier qu'il est également possible de configurer :
 

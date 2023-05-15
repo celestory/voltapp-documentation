@@ -1,6 +1,6 @@
 Ce nœud affiche un diagramme circulaire totalement customisable.
 
-![preview](/documentation/nodes/pieChart/preview.png)
+![preview](/images/pieChart/preview.png)
 
 L'attribut **Données** contient une liste de "parts". Chaque part à les champs suivants :
 

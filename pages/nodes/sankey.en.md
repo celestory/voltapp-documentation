@@ -1,6 +1,6 @@
 This node display a sankey chart.
 
-![preview](/documentation/nodes/sankey/preview.png)
+![preview](/images/sankey/preview.png)
 
 The **Data** attribute is an object with two fields:
 

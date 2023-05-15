@@ -2,4 +2,4 @@ This node allows you to create a webview within your app. In other words, you ca
 
 For example you can embed a youtube video:
 
-![preview](/documentation/nodes/webview/preview.png)
+![preview](/images/webview/preview.png)

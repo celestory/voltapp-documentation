@@ -3,4 +3,4 @@ This node displays a fully customizable bar chart. The **Data** attribute must b
 -   **x** is the text label of each bar
 -   **y** is the numeric value of each bar
 
-![preview](/documentation/nodes/barChart/preview.png)
+![preview](/images/barChart/preview.png)

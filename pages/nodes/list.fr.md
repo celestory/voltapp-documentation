@@ -1,6 +1,6 @@
 Ce nœud permet d'afficher dynamiquement le même nœud plusieurs fois en fonction des items de l'attribut **Liste**.
 
-![preview](/documentation/nodes/list/preview.png)
+![preview](/images/list/preview.png)
 
 Il contient 2 nœuds enfants :
 

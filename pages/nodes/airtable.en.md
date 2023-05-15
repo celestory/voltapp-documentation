@@ -4,7 +4,7 @@ This node allows you to connect Airtable to your Voltapp project.
 
 To connect your database, go into your Airtable account and copy the API Key into the node's **API key** attribute:
 
-![airtable-key](/documentation/nodes/airtable/airtable-key-en.png)
+![airtable-key](/images/airtable/airtable-key-en.png)
 
 Then, you can simply choose your **Database** and **Table**.
 
@@ -14,4 +14,4 @@ Then, you can simply choose your **Database** and **Table**.
 
 To use it, simply call the node's actions into its graphs or children's graphs to perform diverse operations on the selected table:
 
-![graph-example](/documentation/nodes/airtable/graph-example-en.png)
+![graph-example](/images/airtable/graph-example-en.png)

@@ -1,6 +1,6 @@
 Ce nœud affiche un diagramme sankey.
 
-![preview](/documentation/nodes/sankey/preview.png)
+![preview](/images/sankey/preview.png)
 
 L'attribut **Données** est un objet avec 2 champs :
 
