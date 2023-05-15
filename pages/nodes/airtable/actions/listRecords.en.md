@@ -1,0 +1,1 @@
+This action allows you to list all records from the currently selected Airtable table.

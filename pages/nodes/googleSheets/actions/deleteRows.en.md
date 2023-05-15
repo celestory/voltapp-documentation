@@ -1,0 +1,1 @@
+This action allows you to remove rows at the end of your sheet.

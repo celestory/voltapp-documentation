@@ -1,0 +1,1 @@
+Cet évènement est déclenché quand l'utilisateur clique sur ce nœud.

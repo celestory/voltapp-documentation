@@ -1,0 +1,1 @@
+Cet évènement est déclenché quand un utilisateur se déconnecte de son compte firebase.

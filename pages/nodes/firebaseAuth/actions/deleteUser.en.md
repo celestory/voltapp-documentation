@@ -1,0 +1,1 @@
+This action allows you to delete a user.

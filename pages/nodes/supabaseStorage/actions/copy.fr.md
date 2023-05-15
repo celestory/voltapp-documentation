@@ -1,0 +1,3 @@
+Cette action permet de copier un fichier d'un emplacement à un autre au sein du même projet Supabase. Vous pouvez utiliser cette fonction pour copier des fichiers entre différents répertoires ou créer des copies de fichiers. La fonction de copie vous permet également de spécifier des métadonnées pour le fichier copié, telles que le type de contenu et les paramètres de mise en cache.
+
+Pour utiliser la fonction de copie dans l'API de stockage, vous devez fournir les chemins source et destination du fichier que vous souhaitez copier. Vous devez également fournir toutes les métadonnées que vous souhaitez attacher au fichier copié.

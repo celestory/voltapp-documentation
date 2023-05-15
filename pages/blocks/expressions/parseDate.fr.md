@@ -1,0 +1,1 @@
+Ce bloc permet de transformer un **texte** en propriété de type **date**.

@@ -1,0 +1,1 @@
+This event is automatically triggered when the user clicks outside of the lightbox area.

@@ -1,0 +1,1 @@
+Cette action permet de récupérer toutes les valeurs dans un interval spécifique, A1:C3 par exemple.

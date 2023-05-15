@@ -1,0 +1,1 @@
+Cette action permet de supprimer des colonnes à la fin de votre feuille de calcul.

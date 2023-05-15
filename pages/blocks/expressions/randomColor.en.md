@@ -1,0 +1,1 @@
+This block allows you to generate a random property of type **color**.

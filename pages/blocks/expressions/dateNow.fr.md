@@ -1,0 +1,1 @@
+Ce bloc permet de récupérer la date actuelle.

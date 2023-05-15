@@ -1,0 +1,21 @@
+{
+  "break": "Interrompre",
+  "condition": "Condition",
+  "copyToClipboard": "Copier dans le presse-papier",
+  "debug": "Afficher",
+  "delay": "Délai",
+  "forEach": "Boucler sur une liste",
+  "forLoop": "Boucle",
+  "httpRequest": "Requête HTTP",
+  "link": "Link",
+  "loadFromLocalStorage": "Charger à partir du stockage local",
+  "performance": "Mesurer performances",
+  "removeFromLocalStorage": "Supprimer du stockage local",
+  "runJs": "Exécuter du JavaScript",
+  "saveToLocalStorage": "Sauvegarder dans le stockage local",
+  "selectFile": "Sélectionner un fichier",
+  "selectFiles": "Sélectionner des fichiers",
+  "sequence": "Séquence",
+  "switchEnum": "Switch sélection unique",
+  "switchText": "Switch texte"
+}

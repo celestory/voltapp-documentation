@@ -1,0 +1,3 @@
+This action allows you to copy a file from one location to another within the same Supabase project. You can use this function to copy files between different directories or to create duplicate copies of files. The copy function also allows you to specify metadata for the copied file, such as the content type and caching settings.
+
+To use the copy function in the Storage API, you need to provide the source and destination paths for the file you want to copy. You also need to provide any metadata you want to attach to the copied file.

@@ -1,0 +1,1 @@
+Cette action permet de récupérer la valeur d'une cellule spécifique.

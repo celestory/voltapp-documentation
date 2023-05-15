@@ -1,0 +1,1 @@
+This event is triggered when the user stops moving the map.

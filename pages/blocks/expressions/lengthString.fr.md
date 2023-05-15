@@ -1,0 +1,1 @@
+Ce bloc permet de retourner la taille du **texte**.

@@ -1,0 +1,1 @@
+This action allows you to create a new user using an email and a password.

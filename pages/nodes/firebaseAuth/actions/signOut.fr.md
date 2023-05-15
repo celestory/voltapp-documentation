@@ -1,0 +1,1 @@
+Cette action permet de déconnecter l'utilisateur connecté.

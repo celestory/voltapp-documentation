@@ -1,0 +1,3 @@
+This action allows you to insert one or more rows into an existing spreadsheet. It takes several parameters, including the ID of the spreadsheet in which to insert the rows, the index of the row from which to insert the new rows, the number of rows to insert, and how to fill the newly created cells.
+
+Using this method, you can insert rows into an existing spreadsheet and add data to these rows by specifying the values to insert. You can also specify whether the new cells should be left blank or filled with a default value.

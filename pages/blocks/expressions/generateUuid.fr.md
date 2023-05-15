@@ -1,0 +1,1 @@
+Ce bloc permet de générer un identifiant unique.

@@ -1,0 +1,21 @@
+{
+  "break": "Break",
+  "condition": "Condition",
+  "copyToClipboard": "Copy to clipboard",
+  "debug": "Log",
+  "delay": "Delay",
+  "forEach": "For each item in list",
+  "forLoop": "Loop",
+  "httpRequest": "HTTP Request",
+  "link": "Link",
+  "loadFromLocalStorage": "Load from local storage",
+  "performance": "Mesure performances",
+  "removeFromLocalStorage": "Remove from local storage",
+  "runJs": "Execute JavaScript",
+  "saveToLocalStorage": "Save to local storage",
+  "selectFile": "Select file",
+  "selectFiles": "Select files",
+  "sequence": "Sequence",
+  "switchEnum": "Switch single select",
+  "switchText": "Switch text"
+}

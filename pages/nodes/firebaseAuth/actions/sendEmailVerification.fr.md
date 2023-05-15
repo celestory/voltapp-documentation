@@ -1,0 +1,1 @@
+Cette action permet d'envoyer un email de vérificatoin quand un nouveau compte est créé. L'utilisateur peut ensuite utiliser le lien pour confirmer la création du compte.

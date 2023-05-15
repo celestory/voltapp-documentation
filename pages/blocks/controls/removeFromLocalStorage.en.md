@@ -1,0 +1,1 @@
+This block allows you to remove a data from local storage with the given **key**.

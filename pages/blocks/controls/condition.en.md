@@ -1,0 +1,1 @@
+This block creates 2 execution flows depending on the given condition **test**. If the condition is true, the first **true** flow executes, otherwise the second **false** flow executes.

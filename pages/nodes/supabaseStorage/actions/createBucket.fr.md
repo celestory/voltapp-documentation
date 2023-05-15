@@ -1,0 +1,3 @@
+Cette action permet de créer un nouveau bucket (un conteneur de fichiers) dans le système de stockage de Supabase. Un bucket peut être considéré comme un dossier ou un répertoire où vous pouvez organiser et stocker vos fichiers.
+
+Lorsque vous utilisez l'action "createBucket", vous devez spécifier un nom unique pour le bucket que vous souhaitez créer. Ce nom doit être conforme aux règles spécifiques du système de stockage de Supabase.

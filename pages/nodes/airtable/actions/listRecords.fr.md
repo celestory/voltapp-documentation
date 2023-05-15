@@ -1,0 +1,1 @@
+Cette action permet de récupérer toutes les lignes de la table Airtable courramment selectionnée.

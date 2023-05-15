@@ -1,0 +1,1 @@
+Cette action vous permet de forcer l'activation du worker de service.

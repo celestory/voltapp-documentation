@@ -1,0 +1,1 @@
+Ce bloc permet de générer une propriété aléatoire de type **couleur**.

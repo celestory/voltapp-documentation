@@ -1,0 +1,1 @@
+This event is triggered when the mouse leaves the node area.

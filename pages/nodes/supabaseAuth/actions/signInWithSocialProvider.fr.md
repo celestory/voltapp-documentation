@@ -1,0 +1,1 @@
+Cette action permet de connecter un utilisateur à partir d'un service externe comme Google, Apple, ou Facebook (voir l'admin de supabase pour tous les services possibles).

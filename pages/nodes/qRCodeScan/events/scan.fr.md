@@ -1,0 +1,1 @@
+Cet évènement est déclenché quand un QRCode est détecté par la camera.

@@ -1,0 +1,1 @@
+Cette action permet de connecter automatiquement un utilisateur, c'est à dire, sans demander aucune information personnelle.

@@ -1,0 +1,1 @@
+This action allows you to automatically log in a new user anonymously, in other words, without asking any personnal information.

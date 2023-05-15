@@ -1,0 +1,1 @@
+This block allows you to apply the "and" logic operator between two values.

@@ -1,0 +1,1 @@
+Ce bloc permet d'ouvrir l'explorateur de fichiers du système pour selectionner un fichier.

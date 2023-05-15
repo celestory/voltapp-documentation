@@ -1,0 +1,1 @@
+This action allows you to automatically trigger the swipe down without manually dragging the card.

@@ -1,0 +1,1 @@
+This block allows you to merge individual properties into an object.

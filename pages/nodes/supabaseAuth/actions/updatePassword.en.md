@@ -1,0 +1,1 @@
+This action allows you to update the password of the currently authenticated user.

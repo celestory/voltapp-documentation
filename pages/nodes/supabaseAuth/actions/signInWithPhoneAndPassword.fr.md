@@ -1,0 +1,1 @@
+Cette action permet de connecter un utilisateur à partir d'un numéro de téléphone et un mot de passe.

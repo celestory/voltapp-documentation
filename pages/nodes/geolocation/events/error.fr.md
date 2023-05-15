@@ -1,0 +1,1 @@
+Cet évènement est déclenché lorsqu'une erreur liée à la géolocalisation se produit.

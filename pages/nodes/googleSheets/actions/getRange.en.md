@@ -1,0 +1,1 @@
+This action allows you to get all values of cell within a given range, A1:C3 for instance.

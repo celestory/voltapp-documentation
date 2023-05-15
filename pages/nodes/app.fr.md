@@ -1,0 +1,1 @@
+Ce nœud est la racine de votre application, il contient tous les nœuds qui composent l'app. Il permet également de configurer des informations générales comme l'icône de l'app, les informations de la PWA ou du template associé.

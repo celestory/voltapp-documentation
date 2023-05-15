@@ -1,0 +1,1 @@
+This block copy to the clipboard the given **text** value.

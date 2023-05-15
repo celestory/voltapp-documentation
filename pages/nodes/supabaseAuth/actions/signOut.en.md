@@ -1,0 +1,1 @@
+This action allows you to sign out the user if authenticated.

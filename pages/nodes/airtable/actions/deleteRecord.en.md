@@ -1,0 +1,1 @@
+This action allows you to remove a record from the currently selected Airtable table.

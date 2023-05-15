@@ -1,0 +1,1 @@
+This action allows you to change the currently selected tab.

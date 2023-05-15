@@ -1,0 +1,1 @@
+This block allows you to load data from local storage. You specify the **key** from which you want to load and it returns the data into the **text** point.

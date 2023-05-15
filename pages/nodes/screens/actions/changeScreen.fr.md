@@ -1,0 +1,1 @@
+Cette action permet de changer l'onglet courramment selectionné.

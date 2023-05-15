@@ -1,0 +1,1 @@
+Ce bloc permet de supprimer une donnée du stockage local (local storage) avec la **clé** donnée.

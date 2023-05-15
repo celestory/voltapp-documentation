@@ -1,0 +1,3 @@
+This action allows you to insert one or more columns into an existing spreadsheet. It takes several parameters, including the ID of the spreadsheet in which to insert the columns, the index of the column from which to insert the new columns, the number of columns to insert, and how to fill the newly created cells.
+
+Using this method, you can insert columns into an existing spreadsheet and add data to these columns by specifying the values to insert. You can also specify whether the new cells should be left blank or filled with a default value.

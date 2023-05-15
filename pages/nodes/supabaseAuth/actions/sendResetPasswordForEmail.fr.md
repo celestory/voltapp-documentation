@@ -1,0 +1,1 @@
+Cette action permet d'envoyer un lien pour réinitialiser le mot de passe d'un utilisateur.

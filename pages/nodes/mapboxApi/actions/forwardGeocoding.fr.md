@@ -1,0 +1,1 @@
+Cette action permet d'effectuer une recherche textuelle et retourne la position GPS des endroits correspondant à cette recherche avec leurs descriptions.

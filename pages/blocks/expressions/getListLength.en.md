@@ -1,0 +1,1 @@
+This block returns the number of items of the given list.

@@ -1,0 +1,1 @@
+This event is triggered when you gain focus on this node.

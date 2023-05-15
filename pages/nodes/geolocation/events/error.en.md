@@ -1,0 +1,1 @@
+This event is triggered when an error related to geolocation occurs.

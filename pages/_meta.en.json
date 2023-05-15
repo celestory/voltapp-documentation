@@ -1,0 +1,19 @@
+{
+  "index": "Introduction",
+  "blocks": {
+    "title": "Blocks"
+  },
+  "nodes": {
+    "title": "Nodes"
+  },
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Website ↗",
+    "type": "page",
+    "href": "https://voltapp.tech",
+    "newWindow": true
+  }
+}

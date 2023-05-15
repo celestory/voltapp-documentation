@@ -1,0 +1,1 @@
+This action allows you to reset a link to reset the user password.

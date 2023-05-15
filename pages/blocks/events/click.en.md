@@ -1,0 +1,1 @@
+This even is triggered when the user clicks on this node.

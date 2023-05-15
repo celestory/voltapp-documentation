@@ -1,0 +1,1 @@
+Cette action permet de connecter un utilisateur avec son email et mot de passe.

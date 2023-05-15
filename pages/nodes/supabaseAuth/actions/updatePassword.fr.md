@@ -1,0 +1,1 @@
+Cette action permet de mettre à jour le mot de passe de l'utilisateur couramment connecté.

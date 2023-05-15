@@ -1,0 +1,1 @@
+This block allows you to get the current date.

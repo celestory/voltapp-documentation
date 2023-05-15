@@ -1,0 +1,1 @@
+This block allows you to get information about the URL of the current page.

@@ -1,0 +1,1 @@
+This action allows you to set a new passport for a user. You must call **send reset password email** before for it to work.

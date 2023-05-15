@@ -1,0 +1,1 @@
+Cet évènement est déclenché lorsque le nœud apparaît à l'écran.

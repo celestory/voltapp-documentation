@@ -1,0 +1,1 @@
+This event is triggered whenever a user signs in to his supabase account.

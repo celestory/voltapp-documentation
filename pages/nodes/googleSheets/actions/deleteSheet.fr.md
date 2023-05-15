@@ -1,0 +1,1 @@
+Cette action permet de supprimer une feuille de calcul Google existante.

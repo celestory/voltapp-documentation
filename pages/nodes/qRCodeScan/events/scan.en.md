@@ -1,0 +1,1 @@
+This event is triggered whenever a QR code is detected by the camera.

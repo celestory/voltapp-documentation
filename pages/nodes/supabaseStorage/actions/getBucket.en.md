@@ -1,0 +1,3 @@
+This action allows you to retrieve detailed information about a specific bucket within the Supabase storage system. A bucket is a file container that can be seen as a folder or directory where you organize and store your files.
+
+When using the "getBucket" action, you need to specify the name of the bucket you want to retrieve. This action will return metadata such as the bucket name, creation date, total file size, and other relevant information about the bucket.

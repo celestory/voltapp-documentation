@@ -1,0 +1,1 @@
+This event is automatically triggered when the service worker receives a backend notification.

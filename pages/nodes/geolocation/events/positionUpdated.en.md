@@ -1,0 +1,1 @@
+This event is triggered when the GPS position of the user changes.

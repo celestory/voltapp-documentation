@@ -1,0 +1,1 @@
+This node is the root of your application, it contains all the other nodes that composes the app. It also allows you to configure global informations such as the app Icon and the PWA and template settings.

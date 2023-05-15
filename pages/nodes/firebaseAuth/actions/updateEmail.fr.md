@@ -1,0 +1,1 @@
+Cette action permet de mettre à jour l'email d'un utilisateur connecté.

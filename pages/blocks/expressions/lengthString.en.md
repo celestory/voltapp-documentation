@@ -1,0 +1,1 @@
+This block allows you to return the size of a given **text**.

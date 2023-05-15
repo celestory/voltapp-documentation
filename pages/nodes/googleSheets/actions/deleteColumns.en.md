@@ -1,0 +1,1 @@
+This action allows you to remove columns at the end of your sheet.

@@ -1,0 +1,3 @@
+This action allows you to list the files and directories present in a specific bucket within the Supabase storage system. This provides an overview of the items contained in a given bucket.
+
+When using the "list" action, you need to specify the name of the bucket you want to traverse. This action will return a list of files and directories present in the bucket, including information such as the file name, size, content type, and other associated metadata.

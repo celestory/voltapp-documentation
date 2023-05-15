@@ -1,0 +1,1 @@
+This action allows you to connect a user from an external provider such as Google, Facebook, Apple, etc. (see supabase admin for all providers).

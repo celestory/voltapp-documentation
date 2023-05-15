@@ -1,0 +1,1 @@
+Ce bloc créé 2 flux d'exécution en fonction de la condition **test**. Si la condition est vraie, le premier flow (**vrai**) d'exécute, sinon c'est le deuxième (**faux**) qui s'exécute.

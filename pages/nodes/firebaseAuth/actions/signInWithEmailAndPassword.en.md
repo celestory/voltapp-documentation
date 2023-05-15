@@ -1,0 +1,1 @@
+This action allows you to log in a user from its email and password.

@@ -1,0 +1,1 @@
+Cette action permet de définir un nouveau mot de passe pour un utilisateur. Vous devez appeler **envoyer email de réinitialisation de mot de passe** avant pour que ça fonctionne.

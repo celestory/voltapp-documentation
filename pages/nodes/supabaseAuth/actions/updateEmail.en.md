@@ -1,0 +1,1 @@
+This action allows you to update the email of the currently authenticated user.

@@ -1,0 +1,1 @@
+This action allows you to get spots informations from a longitude and latitude coordinates.

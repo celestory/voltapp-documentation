@@ -1,0 +1,1 @@
+Cet évènement est déclenché lorsqu'une erreur se produit en scannant des QRCodes.

@@ -1,0 +1,1 @@
+Ce bloc permet de supprimer les espaces superflus du texte.

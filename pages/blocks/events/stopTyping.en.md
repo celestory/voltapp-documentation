@@ -1,0 +1,1 @@
+This event is triggered once the user stop typing on its keyboard.

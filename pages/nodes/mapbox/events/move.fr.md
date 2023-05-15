@@ -1,0 +1,1 @@
+Cet évènement est déclenché quand la carte est déplacée par l'utilisateur.

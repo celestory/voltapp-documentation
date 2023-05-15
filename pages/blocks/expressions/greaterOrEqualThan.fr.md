@@ -1,0 +1,1 @@
+Ce bloc permet de vérifier si **a** est supérieur ou égal à **b**.

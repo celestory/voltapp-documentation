@@ -1,0 +1,1 @@
+This event is triggered automatically when the node appears.

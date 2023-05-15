@@ -1,0 +1,1 @@
+Ce bloc permet de transformer un objet en un texte JSON.

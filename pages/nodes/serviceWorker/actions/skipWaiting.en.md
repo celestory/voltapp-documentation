@@ -1,0 +1,1 @@
+This action allows you to force the service worker to be active.

@@ -1,0 +1,1 @@
+Ce bloc permet d'appliquer l'opérateur logique "et" entre deux valeurs.
