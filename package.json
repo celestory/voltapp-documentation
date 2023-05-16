@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p 8080",
-    "deploy": "yarn build && gcloud app deploy"
+    "deploy": "rm -rf .next && yarn build && gcloud app deploy"
   },
   "repository": {
     "type": "git",
