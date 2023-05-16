@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 8080",
+    "deploy": "yarn build && gcloud app deploy"
   },
   "repository": {
     "type": "git",
@@ -14,15 +15,16 @@
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/celestory/voltapp-documentation/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/celestory/voltapp-documentation/",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sharp": "^0.32.1"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
