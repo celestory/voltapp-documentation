@@ -42,7 +42,8 @@ const config: DocsThemeConfig = {
   chat: {
     link: "https://discord.gg/wTUbyrE2st",
   },
-  docsRepositoryBase: "https://github.com/celestory/voltapp-documentation",
+  docsRepositoryBase:
+    "https://github.com/celestory/voltapp-documentation/blob/main",
   footer: {
     text: "Voltapp Documentation © 2023",
   },

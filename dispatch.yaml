@@ -1,0 +1,3 @@
+dispatch:
+  - url: "doc.voltapp.tech/*"
+    service: voltapp-documentation
