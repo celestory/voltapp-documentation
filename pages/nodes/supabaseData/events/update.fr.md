@@ -1,4 +1,4 @@
-Cet évènement est déclenché automatiquement lorsqu'on modifie une ligne dans la table courrament sélectionnée.
+Cet évènement est déclenché automatiquement lorsqu'on modifie une ligne dans la table couramment sélectionnée.
 
 Pour que cet évènement soit disponible, il faut activer l'attribut **temps réel** du nœud et qu'une table soit selectionné et non une vue.
 
