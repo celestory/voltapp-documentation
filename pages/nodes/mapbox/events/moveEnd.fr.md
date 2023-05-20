@@ -1,1 +1,1 @@
-Cet évènement est déclenché lorsque l'utilisateur arrète de déplacer la carte.
+Cet évènement est déclenché lorsque l'utilisateur arrête de déplacer la carte.
