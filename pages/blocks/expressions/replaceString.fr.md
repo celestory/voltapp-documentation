@@ -9,3 +9,6 @@ Disons que vous vouliez remplacer le texte `chats` par `chiens` dans le texte `J
 - **replace all** if true, replace all occurences of old text, otherwise just the first one
 
 `result` contain the text after the replacement occured (here `I love dogs`).
+
+
+![preview](/images/expressions/replaceString-fr.png)

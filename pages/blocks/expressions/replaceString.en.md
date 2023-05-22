@@ -8,3 +8,6 @@ Let's say you want to replace `cats` by `dogs` in the text `I love cats`.
 - **replace all** if true, replace all occurences of old text, otherwise just the first one
 
 `result` contain the text after the replacement occured (here `I love dogs`).
+
+
+![preview](/images/expressions/replaceString-en.png)
