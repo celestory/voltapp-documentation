@@ -1,3 +1,3 @@
 # Introduction
  
-Bienvenue dans la documentation de Voltapp 🎉
+Bienvenue dans la documentation de Voltapp !
