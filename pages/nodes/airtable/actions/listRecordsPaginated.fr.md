@@ -2,3 +2,5 @@ Cette action est similaire à **listRecords** mais permet de récupérer uniquem
 
 **nombre de lignes par page** spécifie le nombre de lignes pour chaque page
 **page** spécifie l'index de la page courante
+
+![preview](/images/airtable/actions/listRecordsPaginated-fr.png)

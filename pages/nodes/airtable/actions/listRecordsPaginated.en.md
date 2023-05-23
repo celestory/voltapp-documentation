@@ -2,3 +2,5 @@ This action is similar to **listRecords** except that it allows you to only fetc
 
 **records per page** specifies the number of records for each page
 **page** specifies the index of the page to fetch
+
+![preview](/images/airtable/actions/listRecordsPaginated-en.png)
