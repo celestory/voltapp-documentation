@@ -4,3 +4,5 @@ This action allows you to check if the user has accepted permissions for receiv
 - Denied: the user refused the permission
 - Prompt: the user hasn't accepted yet
 - Error: if an error happened
+
+![preview](/images/serviceWorker/actions/getNotificationsPermissionStatus-en.png)

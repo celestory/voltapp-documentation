@@ -4,3 +4,5 @@ Cette action vous permet de vérifier si l'utilisateur a accepté les permission
 - Denied : l'utilisateur a refusé la permission
 - Prompt : l'utilisateur n'a pas encore accepté
 - Error : si une erreur s'est produite
+
+![preview](/images/serviceWorker/actions/getNotificationsPermissionStatus-fr.png)
