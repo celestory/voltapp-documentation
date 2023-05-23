@@ -5,7 +5,7 @@
   "debug": "Afficher",
   "delay": "Délai",
   "forEach": "Boucler sur une liste",
-  "forLoop": "Boucle",
+  "forLoop": "Répéter",
   "httpRequest": "Requête HTTP",
   "link": "Link",
   "loadFromLocalStorage": "Charger à partir du stockage local",
@@ -16,6 +16,6 @@
   "selectFile": "Sélectionner un fichier",
   "selectFiles": "Sélectionner des fichiers",
   "sequence": "Séquence",
-  "switchEnum": "Switch sélection unique",
-  "switchText": "Switch texte"
+  "switchEnum": "Choix sélection unique",
+  "switchText": "Choix texte"
 }

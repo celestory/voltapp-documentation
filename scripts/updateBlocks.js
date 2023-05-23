@@ -6,7 +6,7 @@ const readdir = promisify(fs.readdir);
 const writeFile = promisify(fs.writeFile);
 
 (async() => {
-    const dirName = 'pages/blocks/expressions';
+    const dirName = 'pages/blocks/controls';
     const fileNames = await readdir(dirName);
 
     for (const fileName of fileNames) {
@@ -16,7 +16,7 @@ const writeFile = promisify(fs.writeFile);
         const filePath =`${dirName}/${fileName}`;
         const file = await readFile(filePath);
         const locale = fileName.split('.')[1];
-        const expressionName = fileName.split('.')[0];
-        await writeFile(filePath, file.toString('utf8') + `\n\n![preview](/images/expressions/${expressionName}-${locale}.png)`);
+        const name = fileName.split('.')[0];
+        await writeFile(filePath, file.toString('utf8') + `\n\n![preview](/images/controls/${name}-${locale}.png)`);
     }
 })();

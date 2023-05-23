@@ -13,3 +13,6 @@ Et retourner des valeurs avec :
 // les arguments sont le nom du paramètre, son type et sa valeur
 voltapp.setReturn('return', 'text', result);
 ```
+
+
+![preview](/images/controls/runJs-fr.png)
