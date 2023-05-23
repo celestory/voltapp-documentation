@@ -6,7 +6,7 @@ const readdir = promisify(fs.readdir);
 const writeFile = promisify(fs.writeFile);
 
 (async() => {
-    const dirName = 'pages/nodes/airtable/actions';
+    const dirName = 'pages/nodes/geolocation/events';
     const fileNames = await readdir(dirName);
 
     for (const fileName of fileNames) {
@@ -17,6 +17,6 @@ const writeFile = promisify(fs.writeFile);
         const file = await readFile(filePath);
         const locale = fileName.split('.')[1];
         const name = fileName.split('.')[0];
-        await writeFile(filePath, file.toString('utf8') + `\n\n![preview](/images/airtable/actions/${name}-${locale}.png)`);
+        await writeFile(filePath, file.toString('utf8') + `\n\n![preview](/images/geolocation/events/${name}-${locale}.png)`);
     }
 })();
