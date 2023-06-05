@@ -1,0 +1,9 @@
+{
+  "airtableUpdate": "Comment mettre à jour mon app quand ma base Airtable change ?",
+  "backend": "Comment connecter un backend ou une API externe ?",
+  "i18n": "Comment internationaliser mon app ?",
+  "monetisation": "Comment ajouter un système de monétisation dans mon app ?",
+  "responsive": "Comment rendre mon application responsive ?",
+  "screenVSrouter": "Quelle est la différence entre Tabs et Pages ?",
+  "scroll": "Comment gérer correctement le défilement ?"
+}

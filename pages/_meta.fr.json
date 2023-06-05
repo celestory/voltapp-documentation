@@ -10,6 +10,9 @@
     "title": "À propos",
     "type": "page"
   },
+  "faq": {
+    "title": "FAQ"
+  },
   "contact": {
     "title": "Site ↗",
     "type": "page",

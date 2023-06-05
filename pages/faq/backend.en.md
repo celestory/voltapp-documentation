@@ -1,0 +1,1 @@
+There is a lot of ways to create a backend for your Voltapp app. You can either use Airtable, Firebase or Supabase using integrated nodes or use the **HTTP Request** control to connect to any custom backend.

@@ -1,0 +1,1 @@
+Il y a plusieurs moyens de connecter un backend à votre application Voltapp. Vous pouvez utiliser Airtable, Firebase ou Supabase en utilisant les integrations Voltapp ou vous pouvez utiliser le contrôle **requête HTTP** pour vous connecter à n'importe quelle API.

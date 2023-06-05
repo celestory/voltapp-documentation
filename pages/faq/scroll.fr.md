@@ -1,0 +1,3 @@
+Le défilement est un concept compliqué. La réponse simple est de mettre à "vrai" l'attribut Défilement de la section. Par contre, il est important que le contenu de la section dépasse sa taille, sinon il n'y aura pas de défilement. Par exemple, si vous avez un très long texte mais que vous n'avez pas contraint la hauteur de votre section, le contenu ne peut pas défiler car la section va simplement s'agrandir. En revanche, si vous lui donnez une hauteur de 100% ou 400px par exemple, le défilement fonctionnera correctement.
+
+Pour plus d'informations sur le sujet, allez voir la partie [Placer les éléments](https://www.notion.so/voltapp/Placer-les-l-ments-50de2471ce24447baf0be24281fe3de5) de notre guide complet.

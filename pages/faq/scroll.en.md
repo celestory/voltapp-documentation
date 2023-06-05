@@ -1,0 +1,3 @@
+Scroll is a complicated thing. The simple answer is, set your Scroll attribute to true in the section that want to be scrolling. However, it's important that the content of the section overflows, otherwise, there won't be any scroll. For example, if you have a very long text but you didn't contrain the height of your section, the content can't scroll because the section will simply expand. But if you give it a height of 100% or 400px for example, it would scroll.
+
+For more details about this subject, check out the [Placing elements](https://www.notion.so/voltapp/Placing-elements-dec30882eaa0420cb3a425c6483456e1) section of our complete guide.
