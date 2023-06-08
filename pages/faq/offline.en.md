@@ -1,0 +1,1 @@
+Offline functionality is managed using the Save and Load blocks with Local Storage (the device's installed app memory). A template that demonstrates this is the QR code template.

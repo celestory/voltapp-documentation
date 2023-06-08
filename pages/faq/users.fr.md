@@ -1,0 +1,1 @@
+Pour implémenter un système utilisateur, il faut utiliser le noeud Supabase Auth ou Firebase Auth. Airtable ne permet pas la gestion des utilisateurs. Vous pouvez utiliser le mode Données qui se base sur Supabase pour contrôler directement les utilisateurs, ainsi que les données et fichiers de votre app. Voir le tuto Mode données.

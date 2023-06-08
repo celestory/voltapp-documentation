@@ -1,0 +1,1 @@
+La recherche de données issues de la base de données connectée à votre app (Airtable, Supabase) se fait avec le bloc Récupérer des lignes. Le template Airtable list et son graphe sur le noeud Airtable montre comment est gérer une barre de recherche.

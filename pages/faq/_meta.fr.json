@@ -5,5 +5,9 @@
   "monetisation": "Comment ajouter un système de monétisation dans mon app ?",
   "responsive": "Comment rendre mon application responsive ?",
   "screenVSrouter": "Quelle est la différence entre Tabs et Pages ?",
-  "scroll": "Comment gérer correctement le défilement ?"
+  "scroll": "Comment gérer correctement le défilement ?",
+  "documentation": "Comment puis-je faire pour documenter mon projet ?",
+  "performances": "Comment optimiser les performances de mon app ?",
+  "users": "Comment implémenter un système d’utilisateur (inscription, connexion) ?",
+  "offline": "Comment gérer le offline sur mon app ?"
 }

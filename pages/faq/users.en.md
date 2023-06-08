@@ -1,0 +1,1 @@
+To implement a user system, you need to use either the Supabase Auth node or the Firebase Auth node. Airtable does not provide user management functionality. You can utilize the Data mode, which relies on Supabase, to directly control users, as well as the data and files of your app. Refer to the Data Mode tutorial for more information.
